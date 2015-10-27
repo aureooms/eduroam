@@ -8,3 +8,4 @@ eduroam service configuration files
 
   - Université Libre de Bruxelles
   - Universität Basel
+  - Aix-Marseille Université
