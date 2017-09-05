@@ -14,3 +14,4 @@ eduroam service configuration files
 
   - Université libre de Bruxelles
   - New York University
+  - Tohoku University
