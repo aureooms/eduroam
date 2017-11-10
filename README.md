@@ -15,3 +15,4 @@ eduroam service configuration files
   - Université libre de Bruxelles (ULB)
   - New York University
   - Tohoku University
+  - Uppsala universitet
