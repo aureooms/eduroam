@@ -16,3 +16,4 @@ eduroam service configuration files
   - New York University
   - Tohoku University
   - Uppsala universitet
+  - Carleton University
