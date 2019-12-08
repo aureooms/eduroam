@@ -19,11 +19,12 @@ eduroam service configuration files
   - Carleton University
   - Geneva Airport GVA
   - VU Amsterdam (only allows specific DNS servers)
- 
- # DNS
- 
- ## VU Amsterdam
- 
+  - KU (University of Copenhagen)
+
+# DNS
+
+## VU Amsterdam
+
     # /etc/resolv.conf
     nameserver 130.37.236.48
     nameserver 130.37.236.49
